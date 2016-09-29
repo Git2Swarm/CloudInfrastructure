@@ -1,0 +1,14 @@
+Description
+
+Ansible roles and playbooks will automate the build out of the IaaS across cloud vendors
+Starting at AWS
+
+Will break out ansible roles to contain reconfigurable IaaS stacks ie with or without ASG (auto scale groups)
+Ansibles Roles
+Global Defautls
+Route53
+ASG EIP
+VPN
+security groups
+EC2 setup and deployment
+
